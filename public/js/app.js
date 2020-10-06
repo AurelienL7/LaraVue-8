@@ -3493,7 +3493,7 @@ __webpack_require__.r(__webpack_exports__);
   props: ['episodeId', 'watchedEpisodes'],
   data: function data() {
     return {
-      wachedEp: this.watchedEpisodes,
+      watchedEp: this.watchedEpisodes,
       isWatched: null
     };
   },

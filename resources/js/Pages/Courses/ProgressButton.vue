@@ -14,7 +14,7 @@
 
         data(){
             return{
-                wachedEp: this.watchedEpisodes,
+                watchedEp: this.watchedEpisodes,
                 isWatched : null,
             }
         },
